@@ -1,0 +1,1 @@
+/mnt/storage3/sswang2_rice_lincRNA_evol/ALY-ATH/scripts/get_orthologous_rela_from_MCScan.rb
